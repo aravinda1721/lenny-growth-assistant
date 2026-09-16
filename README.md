@@ -236,11 +236,6 @@ pytest tests/ -v
 
 ---
 
-## Handover & Evaluator Verification
+## Youtube Video Demo:
+Docs : https://youtu.be/NiWNBiHzX_o
 
-To evaluate this submission:
-1. Run `.\run.ps1` (or `./run.sh`).
-2. Test a grounded query: *"What is Brian Chesky's philosophy on founder mode?"* → Inspect the Citations Drawer with YouTube timestamp links.
-3. Test a Ship 30 essay: *"Write a Ship 30 for 30 essay on viral growth loops"* → Confirm ~1,250 words, hook, headings, and takeaway.
-4. Test an Artifact: *"Create a Product Strategy One-Pager in HTML"* → Verify split-screen interactive rendering and copy/download controls.
-5. Run the automated tests: `pytest tests/ -v`.
